@@ -1,9 +1,15 @@
-{{ partial "header" . }}
+	{{ partial "head.html" . }}
+	<body>
+    {{ partial "nav.html" . }}
 
-<h1>Hugo with Gulp, PostCSS and Webpack</h1>
+    {{ partial "profile.html" . }}
 
-<p>
-  Hooray 🎉 - you've built this with <a href="https://github.com/netlify/victor-hugo">Victor-Hugo</a>!
-</p>
+    <section id="wrapper" class="home">
+        {{ partial "post-list.html"  . }}
+        {{ partial "pagination.html" . }}
+        {{ partial "footer.html"     . }}
+    </section>
 
-{{ partial "footer" . }}
+    {{ partial "js.html" . }}
+    </body>
+</html>
