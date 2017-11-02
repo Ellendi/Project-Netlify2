@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product on Blog Title</title>
+    <link>/tags/product/</link>
+    <description>Recent content in Product on Blog Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Nov 2017 00:42:51 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/product/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Technical/Developer-focused Product</title>
+      <link>/post/ninth/</link>
+      <pubDate>Thu, 02 Nov 2017 00:42:51 -0400</pubDate>
+      
+      <guid>/post/ninth/</guid>
+      <description>https://developers.facebook.com/products/
+This is a good technical/developer-focused product. You are saying, why, it is just Facebook? But that is just it. Facebook right now is a huge deal and anything that Facebook puts out to make sure Facebook is intergrated into everything including stuff to be developed is good. There are so many different links you can click on that will help you develop Facebook things for your apps or websites, including Facebook Login.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Top 5 on Blog Title</title>
+    <link>/tags/top-5/</link>
+    <description>Recent content in Top 5 on Blog Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Nov 2017 00:33:17 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/top-5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5 Likes and Dislikes</title>
+      <link>/post/first/</link>
+      <pubDate>Thu, 02 Nov 2017 00:33:17 -0400</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>Top 5 Likes
+ Analyze thousands of support tickets to spot trends to improve our product Respond to 60+ support requests via email or chat every day Find and recruit teammates for the support team Submit bug reports and potentially bug fixes to closed and open source projects that Netlify maintains on GitHub Respond to Netlify fans on Twitter  Top 5 Dislikes
+ Receive occasional phone calls requesting support from our highest-value customers Deliver a talk to many people you don&amp;rsquo;t know at a conference or meetup Create video tutorials to help teach users a specific feature or use case Work with prospective customers to explain our service and the pricing model Set up your own copy of several static site framworks for debugging  </description>
+    </item>
+    
+  </channel>
+</rss>

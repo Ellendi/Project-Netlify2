@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service on Blog Title</title>
+    <link>/tags/service/</link>
+    <description>Recent content in Service on Blog Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Nov 2017 00:36:06 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Service</title>
+      <link>/post/third/</link>
+      <pubDate>Thu, 02 Nov 2017 00:36:06 -0400</pubDate>
+      
+      <guid>/post/third/</guid>
+      <description>I personally have not used your service except for now, I find it interesting and very useful to people who want to bring up websites without the hassel of going through so much to get it done. This is actually for more advanced people. Most people are going to use websites that are just wham-bam done, just pick and choose what you want and just put in content. This is for people who want their bang for their buck and are actual website developers.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Title</title>
+    <link>/</link>
+    <description>Recent content on Blog Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Nov 2017 00:42:51 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Technical/Developer-focused Product</title>
+      <link>/post/ninth/</link>
+      <pubDate>Thu, 02 Nov 2017 00:42:51 -0400</pubDate>
+      
+      <guid>/post/ninth/</guid>
+      <description>https://developers.facebook.com/products/
+This is a good technical/developer-focused product. You are saying, why, it is just Facebook? But that is just it. Facebook right now is a huge deal and anything that Facebook puts out to make sure Facebook is intergrated into everything including stuff to be developed is good. There are so many different links you can click on that will help you develop Facebook things for your apps or websites, including Facebook Login.</description>
+    </item>
+    
+    <item>
+      <title>Help! My site won&#39;t build!</title>
+      <link>/post/eighth/</link>
+      <pubDate>Thu, 02 Nov 2017 00:41:51 -0400</pubDate>
+      
+      <guid>/post/eighth/</guid>
+      <description>Hello Customer,
+I am sorry your site won&amp;rsquo;t build but worry not! I will be here to help you along the way to make sure your site gets built and up and running. One of the most common problems a site will not build is that the theme is incorrect, if you are running a theme that was provide to you from the builder in question. You must first make sure that the folder in which the theme is coming from is spelled exactly correct, when you try to build the website.</description>
+    </item>
+    
+    <item>
+      <title>DNS Configuration</title>
+      <link>/post/seventh/</link>
+      <pubDate>Thu, 02 Nov 2017 00:40:52 -0400</pubDate>
+      
+      <guid>/post/seventh/</guid>
+      <description>One of the biggest challenges around DNS configuration for a less-technical internet end-user is exactly that, the word DNS itself. Most people are not going to understand what DNS is and why would it even matter to them. To the less-technical internet end-user, they aren&amp;rsquo;t going to bother learning about this and when you speak to them about it, they are going to look at you like you are speaking another language.</description>
+    </item>
+    
+    <item>
+      <title>SSL/HTTPS</title>
+      <link>/post/sixth/</link>
+      <pubDate>Thu, 02 Nov 2017 00:39:42 -0400</pubDate>
+      
+      <guid>/post/sixth/</guid>
+      <description>SSL/HTTPS are both important because they are the ways the information between your web browser and website are encrypted. Encryption means security, it gives you the piece of mind that whatever you are researching or looking at is going to be secure from someone coming in and looking at it. While it is not foolproof or the security that ends everything and is the best, it is there and is needed to keep you safe.</description>
+    </item>
+    
+    <item>
+      <title>Improvement</title>
+      <link>/post/fifth/</link>
+      <pubDate>Thu, 02 Nov 2017 00:38:42 -0400</pubDate>
+      
+      <guid>/post/fifth/</guid>
+      <description>While I have no improvement on the job posting. I say you can give the people who you want to do this project a little suggestion on what to use. Tell them that there is no wrong way but to be careful, because some of the deployments use different languages and if they are not familiar with the language to research, research, research. There is a webpage about it, a Youtube video.</description>
+    </item>
+    
+    <item>
+      <title>Making the Website</title>
+      <link>/post/fourth/</link>
+      <pubDate>Thu, 02 Nov 2017 00:37:07 -0400</pubDate>
+      
+      <guid>/post/fourth/</guid>
+      <description>I made this website with my blood, sweat, and tears. No kidding, I freaked out at first because I thought I was doing it wrong but as I went along and began to really look at it. I noticed that nothing was wrong and I was actually doing great. I used Hugo to make my website, Github to place it as a static website, and Notepad++ to edit the md files.</description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>/post/third/</link>
+      <pubDate>Thu, 02 Nov 2017 00:36:06 -0400</pubDate>
+      
+      <guid>/post/third/</guid>
+      <description>I personally have not used your service except for now, I find it interesting and very useful to people who want to bring up websites without the hassel of going through so much to get it done. This is actually for more advanced people. Most people are going to use websites that are just wham-bam done, just pick and choose what you want and just put in content. This is for people who want their bang for their buck and are actual website developers.</description>
+    </item>
+    
+    <item>
+      <title>Favorite Thing About Technical Support</title>
+      <link>/post/second/</link>
+      <pubDate>Thu, 02 Nov 2017 00:35:12 -0400</pubDate>
+      
+      <guid>/post/second/</guid>
+      <description>My favorite thing about technical support is getting a problem that people have been trying to fix for hours, they are at their wits end and have nowhere else to turn to. I try my best to fix the problem. I will research and research. In the end it turns into something simple to fix but it makes the customer so happy. When a customer is happy, I am happy.</description>
+    </item>
+    
+    <item>
+      <title>5 Likes and Dislikes</title>
+      <link>/post/first/</link>
+      <pubDate>Thu, 02 Nov 2017 00:33:17 -0400</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>Top 5 Likes
+ Analyze thousands of support tickets to spot trends to improve our product Respond to 60+ support requests via email or chat every day Find and recruit teammates for the support team Submit bug reports and potentially bug fixes to closed and open source projects that Netlify maintains on GitHub Respond to Netlify fans on Twitter  Top 5 Dislikes
+ Receive occasional phone calls requesting support from our highest-value customers Deliver a talk to many people you don&amp;rsquo;t know at a conference or meetup Create video tutorials to help teach users a specific feature or use case Work with prospective customers to explain our service and the pricing model Set up your own copy of several static site framworks for debugging  </description>
+    </item>
+    
+  </channel>
+</rss>

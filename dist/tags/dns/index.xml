@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dns on Blog Title</title>
+    <link>/tags/dns/</link>
+    <description>Recent content in Dns on Blog Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Nov 2017 00:40:52 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/dns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DNS Configuration</title>
+      <link>/post/seventh/</link>
+      <pubDate>Thu, 02 Nov 2017 00:40:52 -0400</pubDate>
+      
+      <guid>/post/seventh/</guid>
+      <description>One of the biggest challenges around DNS configuration for a less-technical internet end-user is exactly that, the word DNS itself. Most people are not going to understand what DNS is and why would it even matter to them. To the less-technical internet end-user, they aren&amp;rsquo;t going to bother learning about this and when you speak to them about it, they are going to look at you like you are speaking another language.</description>
+    </item>
+    
+  </channel>
+</rss>

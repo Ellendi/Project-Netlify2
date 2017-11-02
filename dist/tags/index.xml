@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Blog Title</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Blog Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Nov 2017 00:41:51 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ahhh</title>
+      <link>/tags/ahhh/</link>
+      <pubDate>Thu, 02 Nov 2017 00:41:51 -0400</pubDate>
+      
+      <guid>/tags/ahhh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dns</title>
+      <link>/tags/dns/</link>
+      <pubDate>Thu, 02 Nov 2017 00:40:52 -0400</pubDate>
+      
+      <guid>/tags/dns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Favorite</title>
+      <link>/tags/favorite/</link>
+      <pubDate>Thu, 02 Nov 2017 00:35:12 -0400</pubDate>
+      
+      <guid>/tags/favorite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improvement</title>
+      <link>/tags/improvement/</link>
+      <pubDate>Thu, 02 Nov 2017 00:38:42 -0400</pubDate>
+      
+      <guid>/tags/improvement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product</title>
+      <link>/tags/product/</link>
+      <pubDate>Thu, 02 Nov 2017 00:42:51 -0400</pubDate>
+      
+      <guid>/tags/product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>/tags/service/</link>
+      <pubDate>Thu, 02 Nov 2017 00:36:06 -0400</pubDate>
+      
+      <guid>/tags/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ssl</title>
+      <link>/tags/ssl/</link>
+      <pubDate>Thu, 02 Nov 2017 00:39:42 -0400</pubDate>
+      
+      <guid>/tags/ssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top 5</title>
+      <link>/tags/top-5/</link>
+      <pubDate>Thu, 02 Nov 2017 00:33:17 -0400</pubDate>
+      
+      <guid>/tags/top-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>/tags/website/</link>
+      <pubDate>Thu, 02 Nov 2017 00:37:07 -0400</pubDate>
+      
+      <guid>/tags/website/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

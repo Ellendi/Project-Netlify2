@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Favorite on Blog Title</title>
+    <link>/tags/favorite/</link>
+    <description>Recent content in Favorite on Blog Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Nov 2017 00:35:12 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/favorite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Favorite Thing About Technical Support</title>
+      <link>/post/second/</link>
+      <pubDate>Thu, 02 Nov 2017 00:35:12 -0400</pubDate>
+      
+      <guid>/post/second/</guid>
+      <description>My favorite thing about technical support is getting a problem that people have been trying to fix for hours, they are at their wits end and have nowhere else to turn to. I try my best to fix the problem. I will research and research. In the end it turns into something simple to fix but it makes the customer so happy. When a customer is happy, I am happy.</description>
+    </item>
+    
+  </channel>
+</rss>

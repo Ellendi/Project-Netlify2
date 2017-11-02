@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Improvement on Blog Title</title>
+    <link>/tags/improvement/</link>
+    <description>Recent content in Improvement on Blog Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Nov 2017 00:38:42 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/improvement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Improvement</title>
+      <link>/post/fifth/</link>
+      <pubDate>Thu, 02 Nov 2017 00:38:42 -0400</pubDate>
+      
+      <guid>/post/fifth/</guid>
+      <description>While I have no improvement on the job posting. I say you can give the people who you want to do this project a little suggestion on what to use. Tell them that there is no wrong way but to be careful, because some of the deployments use different languages and if they are not familiar with the language to research, research, research. There is a webpage about it, a Youtube video.</description>
+    </item>
+    
+  </channel>
+</rss>

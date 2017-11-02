@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on Blog Title</title>
+    <link>/tags/website/</link>
+    <description>Recent content in Website on Blog Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Nov 2017 00:37:07 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Making the Website</title>
+      <link>/post/fourth/</link>
+      <pubDate>Thu, 02 Nov 2017 00:37:07 -0400</pubDate>
+      
+      <guid>/post/fourth/</guid>
+      <description>I made this website with my blood, sweat, and tears. No kidding, I freaked out at first because I thought I was doing it wrong but as I went along and began to really look at it. I noticed that nothing was wrong and I was actually doing great. I used Hugo to make my website, Github to place it as a static website, and Notepad++ to edit the md files.</description>
+    </item>
+    
+  </channel>
+</rss>
